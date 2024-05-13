@@ -1,0 +1,16 @@
+button{
+  box-shadow: white 0 0 5px 0;
+}
+body{
+  background: linear-gradient(90deg,grey, rgb(52, 255, 52));
+  text-align: center;
+  align-items: center;
+}
+.main{
+  margin-top: 15vh;
+  border: black 2px solid ;
+  width: 200px;
+  height: auto;
+  padding: 10vh;
+  margin: auto;
+}
